@@ -18,7 +18,7 @@ Kullanıcılar aşağıdaki özelliklere sahip:
 
 Projenin canlı haline aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-🔗 **Live Demo vercel:** [https://fmblogpratik.vercel.app/]()
+🔗 **Live Demo:** [Vercel](https://fmblogpratik.vercel.app/)
 
 ## 📌 Öğrendiklerim
 
