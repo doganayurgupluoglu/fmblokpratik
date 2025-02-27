@@ -7,7 +7,7 @@ body {
     font-weight: 500;
 }
 
-* p {
+p {
     font-size: 15px;
 }
 
@@ -20,7 +20,7 @@ main {
 
 .container {
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: hsl(0, 0%, 100%);
     width: auto;
     height: auto;
     border-radius: 15px;
@@ -30,10 +30,11 @@ main {
     box-shadow: 10px 10px 0 0 hsl(0, 0%, 7%);
 }
 
-img {
+.image img {
     border-radius: 15px;
+    width: 100%;
+    object-fit: cover;
 }
-
 
 .status {
     display: inline-block;
